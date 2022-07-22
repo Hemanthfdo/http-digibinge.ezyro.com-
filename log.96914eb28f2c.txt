@@ -1,0 +1,109 @@
+0000.000 (0) Opened log file at time: Fri, 22 Jul 2022 16:10:59 +0000 on http://digibinge.ezyro.com
+0000.003 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.22.14 WP: 6.0 PHP: 7.4.8 (apache2handler, Linux freeweb20-1.byetcluster.com 2.6.32-896.16.1.lve1.4.54.el6.x86_64 #1 SMP Wed May 2 07:43:19 EDT 2018 x86_64) MySQL: 10.3.27-MariaDB (max packet size=3145728) WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 60 memory_limit: 128M (used: 42.5M | 28.5M) multisite: N openssl: OpenSSL 1.1.1g  21 Apr 2020 mcrypt: N LANG: C ZipArchive::addFile: Y
+0000.004 (0) Free space on disk containing Updraft's temporary directory: Unknown
+0000.008 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.011 (0) Semaphore (fd, wpnc_options) being initialised
+0000.016 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.020 (0) Set semaphore last lock (fd) time to 2022-07-22 16:10:59
+0000.021 (0) Semaphore lock (fd) complete
+0000.025 (0) Backup run: resumption=0, nonce=96914eb28f2c, file_nonce=96914eb28f2c begun at=1658506259 (0s ago), job type=backup
+0000.027 (0) Scheduling a resumption (1) after 300 seconds (1658506559) in case this run gets aborted
+0000.043 (0) Checking if we have a zip executable available
+0000.045 (0) Creation of backups of directories: beginning
+0000.048 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0002.748 (0) Total entities for the zip file: 616 directories, 4024 files (0 skipped as non-modified), 47.2 MB
+0002.752 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0005.616 (0) Zip: backup_2022-07-22-1610_DigiBinge_96914eb28f2c-plugins.zip.tmp: 100 files added (on-disk size: 112.4 KB)
+0005.625 (0) Zip: backup_2022-07-22-1610_DigiBinge_96914eb28f2c-plugins.zip.tmp: 200 files added (on-disk size: 112.4 KB)
+0005.646 (0) Zip: backup_2022-07-22-1610_DigiBinge_96914eb28f2c-plugins.zip.tmp: 300 files added (on-disk size: 112.4 KB)
+0005.662 (0) Zip: backup_2022-07-22-1610_DigiBinge_96914eb28f2c-plugins.zip.tmp: 400 files added (on-disk size: 112.4 KB)
+0005.673 (0) Zip: backup_2022-07-22-1610_DigiBinge_96914eb28f2c-plugins.zip.tmp: 500 files added (on-disk size: 112.4 KB)
+0005.692 (0) Zip: backup_2022-07-22-1610_DigiBinge_96914eb28f2c-plugins.zip.tmp: 600 files added (on-disk size: 112.4 KB)
+0005.706 (0) Zip: backup_2022-07-22-1610_DigiBinge_96914eb28f2c-plugins.zip.tmp: 700 files added (on-disk size: 112.4 KB)
+0005.711 (0) Zip: backup_2022-07-22-1610_DigiBinge_96914eb28f2c-plugins.zip.tmp: 800 files added (on-disk size: 112.4 KB)
+0005.718 (0) Zip: backup_2022-07-22-1610_DigiBinge_96914eb28f2c-plugins.zip.tmp: 900 files added (on-disk size: 112.4 KB)
+0005.728 (0) Zip: backup_2022-07-22-1610_DigiBinge_96914eb28f2c-plugins.zip.tmp: 1000 files added (on-disk size: 112.4 KB)
+0005.741 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (3.5 MB, 4024 files batched, 1001 (1002) added so far); re-opening (prior size: 112.4 KB)
+0019.035 (0) Zip: backup_2022-07-22-1610_DigiBinge_96914eb28f2c-plugins.zip.tmp: 1100 files added (on-disk size: 1301.2 KB)
+0019.118 (0) Zip: backup_2022-07-22-1610_DigiBinge_96914eb28f2c-plugins.zip.tmp: 1200 files added (on-disk size: 1301.2 KB)
+0019.124 (0) Zip: backup_2022-07-22-1610_DigiBinge_96914eb28f2c-plugins.zip.tmp: 1300 files added (on-disk size: 1301.2 KB)
+0019.131 (0) Zip: backup_2022-07-22-1610_DigiBinge_96914eb28f2c-plugins.zip.tmp: 1400 files added (on-disk size: 1301.2 KB)
+0019.151 (0) Zip: backup_2022-07-22-1610_DigiBinge_96914eb28f2c-plugins.zip.tmp: 1500 files added (on-disk size: 1301.2 KB)
+0019.169 (0) Zip: backup_2022-07-22-1610_DigiBinge_96914eb28f2c-plugins.zip.tmp: 1600 files added (on-disk size: 1301.2 KB)
+0019.184 (0) Zip: backup_2022-07-22-1610_DigiBinge_96914eb28f2c-plugins.zip.tmp: 1700 files added (on-disk size: 1301.2 KB)
+0019.199 (0) Zip: backup_2022-07-22-1610_DigiBinge_96914eb28f2c-plugins.zip.tmp: 1800 files added (on-disk size: 1301.2 KB)
+0019.210 (0) Zip: backup_2022-07-22-1610_DigiBinge_96914eb28f2c-plugins.zip.tmp: 1900 files added (on-disk size: 1301.2 KB)
+0019.223 (0) Zip: backup_2022-07-22-1610_DigiBinge_96914eb28f2c-plugins.zip.tmp: 2000 files added (on-disk size: 1301.2 KB)
+0019.225 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (15.9 MB, 4024 files batched, 1001 (2003) added so far); re-opening (prior size: 1301.2 KB)
+0307.527 (1) Opened log file at time: Fri, 22 Jul 2022 16:16:06 +0000 on http://digibinge.ezyro.com
+0307.528 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.22.14 WP: 6.0 PHP: 7.4.8 (apache2handler, Linux freeweb20-1.byetcluster.com 2.6.32-896.16.1.lve1.4.54.el6.x86_64 #1 SMP Wed May 2 07:43:19 EDT 2018 x86_64) MySQL: 10.3.27-MariaDB (max packet size=3145728) WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 60 memory_limit: 128M (used: 36.7M | 4.5M) multisite: N openssl: OpenSSL 1.1.1g  21 Apr 2020 mcrypt: N LANG: C ZipArchive::addFile: Y
+0307.529 (1) Free space on disk containing Updraft's temporary directory: Unknown
+0307.531 (1) Requesting backup semaphore lock (96914eb28f2c)
+0307.533 (1) [Debug] Lock option (updraft_lock_96914eb28f2c, wpnc_options) was created in the database
+0307.533 (1) [Info] Lock (updraft_lock_96914eb28f2c, wpnc_options) acquired after initialising the database
+0307.536 (1) Backup run: resumption=1, nonce=96914eb28f2c, file_nonce=96914eb28f2c begun at=1658506259 (307s ago), job type=backup, previous check-in=19s
+0307.537 (1) Scheduling a resumption (2) after 300 seconds (1658506866) in case this run gets aborted
+0307.553 (1) Checking if we have a zip executable available
+0307.554 (1) Creation of backups of directories: had begun; will resume
+0307.556 (1) Beginning creation of dump of plugins (split every: 400 MB)
+0307.557 (1) File exists (/home/vol15_1/ezyro.com/ezyro_32217347/htdocs/wp-content/updraft/backup_2022-07-22-1610_DigiBinge_96914eb28f2c-plugins.zip.tmp), but was apparently not modified within the last 30 seconds, so we assume that any previous run has now terminated (time_mod=1658506278, time_now=1658506566, diff=288)
+0307.564 (1) Creating zip file manifest (backup_2022-07-22-1610_DigiBinge_96914eb28f2c-plugins.zip.list-temp.tmp)
+0307.569 (1) Successfully created zip file manifest (size: 87066)
+0307.570 (1) backup_2022-07-22-1610_DigiBinge_96914eb28f2c-plugins.zip.tmp: Zip file already exists, with 1002 files
+0307.712 (1) Total entities for the zip file: 616 directories, 4024 files (0 skipped as non-modified), 47.2 MB
+0307.720 (1) Zip: backup_2022-07-22-1610_DigiBinge_96914eb28f2c-plugins.zip.tmp: 100 files added (on-disk size: 1301.2 KB)
+0307.721 (1) Zip: backup_2022-07-22-1610_DigiBinge_96914eb28f2c-plugins.zip.tmp: 200 files added (on-disk size: 1301.2 KB)
+0307.722 (1) Zip: backup_2022-07-22-1610_DigiBinge_96914eb28f2c-plugins.zip.tmp: 300 files added (on-disk size: 1301.2 KB)
+0307.723 (1) Zip: backup_2022-07-22-1610_DigiBinge_96914eb28f2c-plugins.zip.tmp: 400 files added (on-disk size: 1301.2 KB)
+0307.724 (1) Zip: backup_2022-07-22-1610_DigiBinge_96914eb28f2c-plugins.zip.tmp: 500 files added (on-disk size: 1301.2 KB)
+0307.725 (1) Zip: backup_2022-07-22-1610_DigiBinge_96914eb28f2c-plugins.zip.tmp: 600 files added (on-disk size: 1301.2 KB)
+0307.726 (1) Zip: backup_2022-07-22-1610_DigiBinge_96914eb28f2c-plugins.zip.tmp: 700 files added (on-disk size: 1301.2 KB)
+0307.728 (1) Zip: backup_2022-07-22-1610_DigiBinge_96914eb28f2c-plugins.zip.tmp: 800 files added (on-disk size: 1301.2 KB)
+0307.729 (1) Zip: backup_2022-07-22-1610_DigiBinge_96914eb28f2c-plugins.zip.tmp: 900 files added (on-disk size: 1301.2 KB)
+0307.730 (1) Zip: backup_2022-07-22-1610_DigiBinge_96914eb28f2c-plugins.zip.tmp: 1000 files added (on-disk size: 1301.2 KB)
+0307.736 (1) Zip: backup_2022-07-22-1610_DigiBinge_96914eb28f2c-plugins.zip.tmp: 1100 files added (on-disk size: 1301.2 KB)
+0307.741 (1) Zip: backup_2022-07-22-1610_DigiBinge_96914eb28f2c-plugins.zip.tmp: 1200 files added (on-disk size: 1301.2 KB)
+0307.747 (1) Zip: backup_2022-07-22-1610_DigiBinge_96914eb28f2c-plugins.zip.tmp: 1300 files added (on-disk size: 1301.2 KB)
+0307.752 (1) Zip: backup_2022-07-22-1610_DigiBinge_96914eb28f2c-plugins.zip.tmp: 1400 files added (on-disk size: 1301.2 KB)
+0307.758 (1) Zip: backup_2022-07-22-1610_DigiBinge_96914eb28f2c-plugins.zip.tmp: 1500 files added (on-disk size: 1301.2 KB)
+0307.764 (1) Zip: backup_2022-07-22-1610_DigiBinge_96914eb28f2c-plugins.zip.tmp: 1600 files added (on-disk size: 1301.2 KB)
+0307.769 (1) Zip: backup_2022-07-22-1610_DigiBinge_96914eb28f2c-plugins.zip.tmp: 1700 files added (on-disk size: 1301.2 KB)
+0307.775 (1) Zip: backup_2022-07-22-1610_DigiBinge_96914eb28f2c-plugins.zip.tmp: 1800 files added (on-disk size: 1301.2 KB)
+0307.780 (1) Zip: backup_2022-07-22-1610_DigiBinge_96914eb28f2c-plugins.zip.tmp: 1900 files added (on-disk size: 1301.2 KB)
+0307.786 (1) Zip: backup_2022-07-22-1610_DigiBinge_96914eb28f2c-plugins.zip.tmp: 2000 files added (on-disk size: 1301.2 KB)
+0307.787 (1) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (15.9 MB, 4024 files batched, 1001 (1001) added so far); re-opening (prior size: 1301.2 KB)
+0316.754 (1) Zip: backup_2022-07-22-1610_DigiBinge_96914eb28f2c-plugins.zip.tmp: 2100 files added (on-disk size: 5791.3 KB)
+0317.632 (1) Zip: backup_2022-07-22-1610_DigiBinge_96914eb28f2c-plugins.zip.tmp: 2200 files added (on-disk size: 5791.3 KB)
+0317.642 (1) Zip: backup_2022-07-22-1610_DigiBinge_96914eb28f2c-plugins.zip.tmp: 2300 files added (on-disk size: 5791.3 KB)
+0317.651 (1) Zip: backup_2022-07-22-1610_DigiBinge_96914eb28f2c-plugins.zip.tmp: 2400 files added (on-disk size: 5791.3 KB)
+0317.661 (1) Zip: backup_2022-07-22-1610_DigiBinge_96914eb28f2c-plugins.zip.tmp: 2500 files added (on-disk size: 5791.3 KB)
+0317.666 (1) Zip: backup_2022-07-22-1610_DigiBinge_96914eb28f2c-plugins.zip.tmp: 2600 files added (on-disk size: 5791.3 KB)
+0317.672 (1) Zip: backup_2022-07-22-1610_DigiBinge_96914eb28f2c-plugins.zip.tmp: 2700 files added (on-disk size: 5791.3 KB)
+0317.677 (1) Zip: backup_2022-07-22-1610_DigiBinge_96914eb28f2c-plugins.zip.tmp: 2800 files added (on-disk size: 5791.3 KB)
+0317.684 (1) Zip: backup_2022-07-22-1610_DigiBinge_96914eb28f2c-plugins.zip.tmp: 2900 files added (on-disk size: 5791.3 KB)
+0317.691 (1) Zip: backup_2022-07-22-1610_DigiBinge_96914eb28f2c-plugins.zip.tmp: 3000 files added (on-disk size: 5791.3 KB)
+0317.692 (1) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (18 MB, 4024 files batched, 1001 (2002) added so far); re-opening (prior size: 5791.3 KB)
+0339.564 (1) Zip: backup_2022-07-22-1610_DigiBinge_96914eb28f2c-plugins.zip.tmp: 3100 files added (on-disk size: 11058.2 KB)
+0340.019 (1) Zip: backup_2022-07-22-1610_DigiBinge_96914eb28f2c-plugins.zip.tmp: 3200 files added (on-disk size: 11058.2 KB)
+0340.028 (1) Zip: backup_2022-07-22-1610_DigiBinge_96914eb28f2c-plugins.zip.tmp: 3300 files added (on-disk size: 11058.2 KB)
+0340.037 (1) Zip: backup_2022-07-22-1610_DigiBinge_96914eb28f2c-plugins.zip.tmp: 3400 files added (on-disk size: 11058.2 KB)
+0340.047 (1) Zip: backup_2022-07-22-1610_DigiBinge_96914eb28f2c-plugins.zip.tmp: 3500 files added (on-disk size: 11058.2 KB)
+0340.056 (1) Zip: backup_2022-07-22-1610_DigiBinge_96914eb28f2c-plugins.zip.tmp: 3600 files added (on-disk size: 11058.2 KB)
+0340.065 (1) Zip: backup_2022-07-22-1610_DigiBinge_96914eb28f2c-plugins.zip.tmp: 3700 files added (on-disk size: 11058.2 KB)
+0340.074 (1) Zip: backup_2022-07-22-1610_DigiBinge_96914eb28f2c-plugins.zip.tmp: 3800 files added (on-disk size: 11058.2 KB)
+0340.083 (1) Zip: backup_2022-07-22-1610_DigiBinge_96914eb28f2c-plugins.zip.tmp: 3900 files added (on-disk size: 11058.2 KB)
+0340.092 (1) Zip: backup_2022-07-22-1610_DigiBinge_96914eb28f2c-plugins.zip.tmp: 4000 files added (on-disk size: 11058.2 KB)
+0340.093 (1) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (9.6 MB, 4024 files batched, 1001 (3003) added so far); re-opening (prior size: 11058.2 KB)
+0378.753 (1) Created plugins zip (0) - 13907.4 KB in 71.2 s (195.3 KB/s) (sha1: 9929ca4d3c0d1746e040e8e2001accbcfcbf80bf, sha256: a6a5584890a7986d1320c5227e151282a4edd5a3d93a59b592fb29b887ca0231)
+0378.928 (1) Deleting old temporary file: backup_2022-07-22-1610_DigiBinge_96914eb28f2c-plugins.zip.tmp.LcCUKv
+0378.948 (1) Beginning creation of dump of themes (split every: 400 MB)
+0385.299 (1) Total entities for the zip file: 444 directories, 1367 files (0 skipped as non-modified), 46 MB
+0385.303 (1) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0385.608 (1) Zip: backup_2022-07-22-1610_DigiBinge_96914eb28f2c-themes.zip.tmp: 100 files added (on-disk size: 74.6 KB)
+0385.622 (1) Zip: backup_2022-07-22-1610_DigiBinge_96914eb28f2c-themes.zip.tmp: 200 files added (on-disk size: 74.6 KB)
+0385.627 (1) Zip: backup_2022-07-22-1610_DigiBinge_96914eb28f2c-themes.zip.tmp: 300 files added (on-disk size: 74.6 KB)
+0385.633 (1) Zip: backup_2022-07-22-1610_DigiBinge_96914eb28f2c-themes.zip.tmp: 400 files added (on-disk size: 74.6 KB)
+0385.638 (1) Zip: backup_2022-07-22-1610_DigiBinge_96914eb28f2c-themes.zip.tmp: 500 files added (on-disk size: 74.6 KB)
+0385.644 (1) Zip: backup_2022-07-22-1610_DigiBinge_96914eb28f2c-themes.zip.tmp: 600 files added (on-disk size: 74.6 KB)
+0385.649 (1) Zip: backup_2022-07-22-1610_DigiBinge_96914eb28f2c-themes.zip.tmp: 700 files added (on-disk size: 74.6 KB)
+0385.651 (1) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25.2 MB, 1367 files batched, 749 (750) added so far); re-opening (prior size: 74.6 KB)
